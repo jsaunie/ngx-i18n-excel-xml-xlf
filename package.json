@@ -1,0 +1,16 @@
+{
+  "name": "ngx-i18n-excel-xml-xlf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jean Saunie",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.14.4",
+    "xml2js": "^0.4.19"
+  }
+}
